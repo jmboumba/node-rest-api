@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/jmboumba/node-rest-api#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "ajv": "^8.17.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
   }
 }
